@@ -18,9 +18,3 @@ buttons.forEach( function(buttons) {
         }
     })
 })
-
-// function func(event) {
-//     alert(event.target.nodeName);
-// }
-
-//target , eval 
